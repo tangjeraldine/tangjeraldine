@@ -23,6 +23,8 @@ My name is Jeraldine and I'm based in Singapore. I am a:
 - :woman_student: Life-long Student and Learner
 - :coffee: :plate_with_cutlery: Coffee Addict and Foodie
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 - **Frontend:** <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
@@ -33,11 +35,15 @@ My name is Jeraldine and I'm based in Singapore. I am a:
 
 - **Database:** <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="30" height="30"/>&nbsp; (Knex, ElephantSQL) <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="30" height="30"/>&nbsp; (Mongoose)
 
+---
+
 ### What I'm Up To Nowadays :
 
 - :bulb: Exploring areas related to backend development and creating more secure websites
 - :zap: In my free time, I :running_woman: run and solve problems on Leetcode.
 - :seedling: I'm now learning Data Structures + Algorithms, Python and Flask.
+
+---
 
 ### :point_down: Ping Me on LinkedIn!
 
