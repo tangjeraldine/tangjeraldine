@@ -4,12 +4,42 @@
   <a href="https://www.linkedin.com/in/tang-jeraldine-yanping/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
 <img src="https://komarev.com/ghpvc/?username=tangjeraldine&style=flat-square&color=blue" alt="views"/>
 </div>
 
-
 ## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
- My name is Jeraldine and I'm based in Singapore.
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+</div>
+
+### About Me :
+
+My name is Jeraldine and I'm based in Singapore.
+
+I am a:
+
+- :woman_technologist: Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :woman_health_worker: Former Product Manager
+- :woman_student: Life-long Student and Learner
+- :coffee: :plate_with_cutlery: Coffee Addict and Foodie
+
+### :hammer_and_wrench: Languages and Tools:
+
+<div>
+- [x] Frontend: <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; , <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; , <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp; , <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+- [x] Design: <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp; , HyperUI, DaisyUI, <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+- [x] Backend: <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp; , <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+- [x] Database: <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp; (Knex, ElephantSQL), <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp; (Mongoose)
+</div>
+
+### Now:
+
+- :bulb: Exploring areas related to backend development and creating more secure websites
+- :zap: In my free time, I :running_woman: run and solve problems on Leetcode.
+- :seedling: I'm now learning Data Structures + Algorithms, Python and Flask.
+
+### :point_down: Ping Me on LinkedIn!
+
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tang-jeraldine-yanping/)
